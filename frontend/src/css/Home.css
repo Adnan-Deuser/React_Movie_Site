@@ -18,8 +18,8 @@
   padding: 0.75rem 1rem;
   border: none;
   border-radius: 4px;
-  background-color: #333;
-  color: white;
+  background-color: #dccccc;
+  color: rgb(16, 5, 5);
   font-size: 1rem;
 }
 
@@ -30,8 +30,8 @@
 
 .search-button {
   padding: 0.75rem 1.5rem;
-  background-color: #e50914;
-  color: white;
+  background-color: #cfc1c1;
+  color: rgb(37, 6, 6);
   border-radius: 4px;
   font-weight: 500;
   transition: background-color 0.2s;
@@ -39,7 +39,7 @@
 }
 
 .search-button:hover {
-  background-color: #f40612;
+  background-color: #898282;
 }
 
 
