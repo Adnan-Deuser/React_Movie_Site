@@ -1,12 +1,12 @@
 .navbar {
-  background: linear-gradient(90deg, #0B3D91, #06478C); /* dark blue gradient */
-  color: #ffffff; /* text color */
+  background: linear-gradient(90deg, #0B3D91, #06478C);
+  color: #ffffff;
   padding: 1rem 2rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-  border-radius: 8px; /* optional, soft edges */
+  border-radius: 8px;
 }
 
 .navbar-brand {
