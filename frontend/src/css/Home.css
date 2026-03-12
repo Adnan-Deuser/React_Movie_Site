@@ -9,7 +9,6 @@
   to   { opacity: 1; transform: translateY(0); }
 }
 
-/* ── Search ── */
 .search-form {
   max-width: 620px;
   margin: 0 auto 2.5rem;
@@ -65,7 +64,6 @@
   transform: translateY(0);
 }
 
-/* ── Grid ── */
 .movies-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
@@ -74,7 +72,6 @@
   width: 100%;
 }
 
-/* ── Responsive ── */
 @media (max-width: 639px) {
   .home {
     padding: 1.5rem 0;
@@ -95,7 +92,6 @@
   }
 }
 
-/* ── Loading state ── */
 .loading {
   display: flex;
   flex-direction: column;
@@ -120,7 +116,6 @@
   to { transform: rotate(360deg); }
 }
 
-/* ── Error state ── */
 .error-message {
   max-width: 500px;
   margin: 0 auto 1.5rem;
@@ -137,7 +132,6 @@
   gap: 0.5rem;
 }
 
-/* ── Search button disabled ── */
 .search-button:disabled {
   opacity: 0.5;
   cursor: not-allowed;

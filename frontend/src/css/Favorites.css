@@ -27,7 +27,6 @@
   border-radius: 99px;
 }
 
-/* ── Empty state ── */
 .favorites-empty {
   text-align: center;
   padding: 5rem 2rem;
@@ -53,7 +52,6 @@
   line-height: 1.7;
 }
 
-/* ── Grid item entrance ── */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(16px); }
   to   { opacity: 1; transform: translateY(0); }

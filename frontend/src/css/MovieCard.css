@@ -17,7 +17,6 @@
   border-color: var(--accent);
 }
 
-/* ── Poster ── */
 .movie-poster {
   position: relative;
   aspect-ratio: 2/3;
@@ -36,7 +35,6 @@
   transform: scale(1.04);
 }
 
-/* ── Hover overlay ── */
 .movie-overlay {
   position: absolute;
   inset: 0;
@@ -57,7 +55,6 @@
   opacity: 1;
 }
 
-/* ── Favorite button ── */
 .favorite-btn {
   position: absolute;
   top: 0.75rem;
@@ -91,7 +88,6 @@
   background-color: rgba(224, 82, 82, 0.12);
 }
 
-/* ── Rating select ── */
 .rating-select {
   background-color: rgba(10, 10, 11, 0.8);
   backdrop-filter: blur(6px);
@@ -111,7 +107,6 @@
   border-color: var(--accent);
 }
 
-/* ── Info block ── */
 .movie-info {
   padding: 0.9rem 1rem;
   flex: 1;
@@ -145,7 +140,6 @@
   padding-top: 0.35rem;
 }
 
-/* ── Responsive ── */
 @media (max-width: 768px) {
   .movie-info {
     padding: 0.75rem;
