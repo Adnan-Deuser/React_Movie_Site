@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/100/646CFF/film-reel.png" width="90" height="90" alt="Film Reel">
   
-  <h1>CineFlow</h1>
+  <h1>CinemaOnline</h1>
 
 
  <p>
